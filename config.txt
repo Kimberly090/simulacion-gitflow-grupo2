@@ -1,1 +1,2 @@
 color_interfaz = azul
+color_carrito = rojo
